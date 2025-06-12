@@ -14,5 +14,5 @@ int main(){
         cout << endl;
         i++;
     }
-    return 0;z
+    return 0;
 }
