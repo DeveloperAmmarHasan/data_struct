@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    // write a program to the smallest number of the two
+    // write a program to print the smallest number of the two
     int n, m;
     cout << "Enter two number respectively to the smallest number of the two" << endl;
     cin >> n >> m;
