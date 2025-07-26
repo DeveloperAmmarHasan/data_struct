@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Alexandria, a passionate and curious student delving into the world of programming. I love to build and create, and I'm always eager to learn new technologies and improve my skills.
+👋 Hi there! I'm Ammar, a passionate and curious student delving into the world of programming. I love to build and create, and I'm always eager to learn new technologies and improve my skills.
 
 🔭 I’m currently working on exciting projects that challenge me and help me grow as a developer. I enjoy turning ideas into reality through code.
 
